@@ -1,0 +1,33 @@
+.
+├── README.md
+├── index.html
+├── package-lock.json
+├── package.json
+├── public
+│   └── vite.svg
+├── src
+│   ├── App.css
+│   ├── App.tsx
+│   ├── assets
+│   │   └── react.svg
+│   ├── components
+│   │   ├── Subtask.tsx
+│   │   ├── Task.tsx
+│   │   ├── TaskVisualization.tsx
+│   │   └── ZoomControls.tsx
+│   ├── data
+│   │   └── tasks.ts
+│   ├── index.css
+│   ├── main.tsx
+│   ├── utils
+│   │   └── storage.ts
+│   └── vite-env.d.ts
+├── tree.txt
+├── tsconfig.json
+├── tsconfig.node.json
+├── tsconfig.node.tsbuildinfo
+├── vite.config.d.ts
+├── vite.config.js
+└── vite.config.ts
+
+7 directories, 24 files
